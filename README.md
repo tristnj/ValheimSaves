@@ -3,4 +3,4 @@
 Copy and paste all four files... 
 C:\Users\Username\AppData\LocalLow\IronGate\Valheim\worlds
 
-upload files when done with month/day description
+upload files when done
