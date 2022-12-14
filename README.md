@@ -1,6 +1,6 @@
 # ValheimSaves
+Go to C:\Users\Username\AppData\LocalLow\IronGate\Valheim\worlds_local
 
-Copy and paste all four files... 
-C:\Users\Username\AppData\LocalLow\IronGate\Valheim\worlds
+Compress all four files (.db / .db.old / .fwl / .fwl.old) by selecting the files, right click, send to, compressed(zipped)folder 
 
-upload files when done
+upload the .zip
